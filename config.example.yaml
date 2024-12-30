@@ -1,0 +1,7 @@
+crafty_instances:
+  - hostname: crafty1.example.com
+    username: admin
+    password: 'changeme'
+  - hostname: crafty2.example.com
+    username: admin
+    password: 'changeme'
